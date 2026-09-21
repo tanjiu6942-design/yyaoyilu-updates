@@ -1,0 +1,9 @@
+{
+  "webVersion": "1.0.1",
+  "webUrl": "https://raw.githubusercontent.com/tanjiu6942-design/yyaoyilu-updates/main/bundles/www-1.0.1.zip",
+  "webChecksum": "8afa6a43430f6c6732fe5244a1fa3b3d62376a76f1d8e859756bf5c32b1e90f8",
+  "nativeVersionCode": 1,
+  "apkUrl": "",
+  "forceNative": false,
+  "notes": "建立自动更新通道：修复与优化"
+}
