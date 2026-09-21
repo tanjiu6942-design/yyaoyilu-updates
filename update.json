@@ -3,7 +3,7 @@
   "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.2.zip",
   "webChecksum": "8482e23a106b351991f9a97b1fbf0e6599ba62f0a41a6572314b240d53bf4238",
   "nativeVersionCode": 3,
-  "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.4.apk",
+  "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.4.zip",
   "forceNative": true,
   "notes": "新增血月狐应用图标，修复设置布局，更新通道全部走国内CDN"
 }
