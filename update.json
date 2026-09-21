@@ -1,9 +1,9 @@
 {
-  "webVersion": "1.0.1",
-  "webUrl": "https://raw.githubusercontent.com/tanjiu6942-design/yyaoyilu-updates/main/bundles/www-1.0.1.zip",
-  "webChecksum": "8afa6a43430f6c6732fe5244a1fa3b3d62376a76f1d8e859756bf5c32b1e90f8",
+  "webVersion": "1.0.2",
+  "webUrl": "https://raw.githubusercontent.com/tanjiu6942-design/yyaoyilu-updates/main/bundles/www-1.0.2.zip",
+  "webChecksum": "8482e23a106b351991f9a97b1fbf0e6599ba62f0a41a6572314b240d53bf4238",
   "nativeVersionCode": 1,
   "apkUrl": "",
   "forceNative": false,
-  "notes": "建立自动更新通道：修复与优化"
+  "notes": "洞府设置界面布局优化，修复按钮与文字重叠"
 }
