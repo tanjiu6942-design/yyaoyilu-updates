@@ -1,9 +1,9 @@
 {
-  "webVersion": "1.0.5",
-  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.2.zip",
-  "webChecksum": "8482e23a106b351991f9a97b1fbf0e6599ba62f0a41a6572314b240d53bf4238",
+  "webVersion": "1.0.6",
+  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.6.zip",
+  "webChecksum": "6ae8526515a02a1968d878260aa0e68f0bdb3101b7445b7508e0a28bb8dd25a1",
   "nativeVersionCode": 4,
   "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.5.zip",
-  "forceNative": true,
-  "notes": "修复Capgo残留bundle导致布局回退，原生版本变化自动重置"
+  "forceNative": false,
+  "notes": "修复设置界面按钮错位重叠：尺寸变化时自动重建按钮"
 }
