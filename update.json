@@ -1,9 +1,9 @@
 {
-  "webVersion": "1.0.13",
-  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.13.zip",
-  "webChecksum": "6c65891db52db180e423f7fb398fc5634298048406d86771e773b402773f2d21",
+  "webVersion": "1.0.14",
+  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.14.zip",
+  "webChecksum": "d4165b34376d801486f712fdd16ab9e97f432752be8128c56d8fc7f461442686",
   "nativeVersionCode": 6,
   "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.9.zip",
   "forceNative": false,
-  "notes": "符箓图鉴改为全部可见"
+  "notes": "符箓图鉴改用游戏同款卡牌模板图与卡面图标"
 }
