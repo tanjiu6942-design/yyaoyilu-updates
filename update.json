@@ -1,9 +1,9 @@
 {
-  "webVersion": "1.0.12",
-  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.12.zip",
-  "webChecksum": "be78b1f1be0923338b7d6d1f6efb1b3941a36c166c13a2fca23d89662a7e2400",
+  "webVersion": "1.0.13",
+  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.13.zip",
+  "webChecksum": "6c65891db52db180e423f7fb398fc5634298048406d86771e773b402773f2d21",
   "nativeVersionCode": 6,
   "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.9.zip",
   "forceNative": false,
-  "notes": "藏经阁改横滑单条预览；未见过显示暂未收录；道统副标题缩短"
+  "notes": "符箓图鉴改为全部可见"
 }
