@@ -1,9 +1,9 @@
 {
-  "webVersion": "1.0.10",
-  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.10.zip",
-  "webChecksum": "201e74a1a3f70fff347dd58db1c80c77fa39ff681e87f8a4afb4fb9a40afc6fa",
+  "webVersion": "1.0.11",
+  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.11.zip",
+  "webChecksum": "83fc8bbecab5f7ab8bb522ce9df9e001c87d045dadff314195922c0282398f98",
   "nativeVersionCode": 6,
   "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.9.zip",
   "forceNative": false,
-  "notes": "切后台自动暂停BGM、回前台恢复；FPS显示默认关闭；道统界面文字对比度优化"
+  "notes": "道统副标题加深色底条+米金字"
 }
