@@ -1,9 +1,9 @@
 {
-  "webVersion": "1.0.7",
+  "webVersion": "1.0.8",
   "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.7.zip",
   "webChecksum": "46facb97217339bba5db9e6279a76157758ec2c9e9d1fa00d01a126a9ad352aa",
-  "nativeVersionCode": 4,
-  "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.5.zip",
-  "forceNative": false,
-  "notes": "道统选择改为横向滑动分页：上半立绘卡牌，下半技能背景；补全5角色立绘"
+  "nativeVersionCode": 5,
+  "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.8.zip",
+  "forceNative": true,
+  "notes": "整包修复热更地址(改走腾讯云COS)，并包含横向滑动道统界面与5角色立绘"
 }
