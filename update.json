@@ -1,9 +1,9 @@
 {
-  "webVersion": "1.0.15",
-  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.15.zip",
-  "webChecksum": "c5fd33cbaf46c0022ca2cd4430f3a80eef52c724d1b385aba04f7a6c6298b0c4",
+  "webVersion": "1.0.16",
+  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.16.zip",
+  "webChecksum": "f428493506a7982d9338dd9bac4a5663614f10cce84953bcb0c8d5be6f06ec92",
   "nativeVersionCode": 6,
   "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.9.zip",
   "forceNative": false,
-  "notes": "修复图鉴卡牌描述文字看不清"
+  "notes": "图鉴卡牌布局对齐游戏内战斗卡牌"
 }
