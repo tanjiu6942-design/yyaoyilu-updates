@@ -2,8 +2,8 @@
   "webVersion": "1.0.9",
   "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.9.zip",
   "webChecksum": "207f30aa6eb1ec85f25f3ccde367a4d4812da711f4df5e0f997c116c46875109",
-  "nativeVersionCode": 5,
-  "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.8.zip",
-  "forceNative": false,
-  "notes": "道统选择：无限循环滑动、翻页更顺滑；深色信息面板让文字更清晰；修复名字遮挡与多机型背景故事显示"
+  "nativeVersionCode": 6,
+  "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.9.zip",
+  "forceNative": true,
+  "notes": "整包：道统无限循环滑动、翻页顺滑、深色信息面板、修复名字遮挡与多机型背景故事显示"
 }
