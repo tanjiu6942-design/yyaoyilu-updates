@@ -1,9 +1,9 @@
 {
-  "webVersion": "1.0.17",
-  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.17.zip",
-  "webChecksum": "04bf447050268f52c36633a72371bf553c56de6042d684ed39c50e248b81b92e",
+  "webVersion": "1.0.18",
+  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.18.zip",
+  "webChecksum": "e3be79479088d3f13f1e040a2cd319d3663384fd0681287ffdd206221748fe4b",
   "nativeVersionCode": 6,
   "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.9.zip",
   "forceNative": false,
-  "notes": "图鉴符箓卡面像素级复刻游戏放大卡"
+  "notes": "全游戏数值重调：三章难度与经济平衡、章节间回血+气血上限成长、门势死锁修复；第三章开门竞速/归墟秘境/五行倒转轮盘；藏经阁立体卡牌+法阵展台；25张符箓仙侠风改名"
 }
