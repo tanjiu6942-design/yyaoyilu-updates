@@ -1,9 +1,9 @@
 {
-  "webVersion": "1.0.18",
-  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.18.zip",
-  "webChecksum": "e3be79479088d3f13f1e040a2cd319d3663384fd0681287ffdd206221748fe4b",
+  "webVersion": "1.0.19",
+  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.19.zip",
+  "webChecksum": "1b1393affddccebff6220f1cf057bce7b7cf9718d288e3b2423bc28f7d484893",
   "nativeVersionCode": 6,
   "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.9.zip",
   "forceNative": false,
-  "notes": "全游戏数值重调：三章难度与经济平衡、章节间回血+气血上限成长、门势死锁修复；第三章开门竞速/归墟秘境/五行倒转轮盘；藏经阁立体卡牌+法阵展台；25张符箓仙侠风改名"
+  "notes": "开篇与地图背景音乐替换为中国古风新曲"
 }
