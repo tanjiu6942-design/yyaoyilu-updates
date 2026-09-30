@@ -1,9 +1,9 @@
 {
-  "webVersion": "1.0.19",
-  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.19.zip",
-  "webChecksum": "1b1393affddccebff6220f1cf057bce7b7cf9718d288e3b2423bc28f7d484893",
+  "webVersion": "1.0.20",
+  "webUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/bundles/www-1.0.20.zip",
+  "webChecksum": "d5aeba66cde91d28081a3dfb49008fd5cc1de211375fff3e41e1b7a535de7859",
   "nativeVersionCode": 6,
   "apkUrl": "https://yyaoyilu-updates-1443922398.cos.ap-beijing.myqcloud.com/apk/yy-1.0.9.zip",
   "forceNative": false,
-  "notes": "开篇与地图背景音乐替换为中国古风新曲"
+  "notes": "【印记系统升级】战斗HUD实时显示金木土印记数；印记加成随章节自缩放；同回合连续引爆触发连击+2固定加成，连击有连/爆成就；玉盒印法宝可跨战保留印记【成就系统+11】新增连击、无伤精英/魁首、超速斩杀、全图鉴、死亡里程碑、富可敌国、堕入修罗、群贤毕至等成就，功德碑显示达成进度【新手指引优化】商店/事件教学解禁；护盾破碎/首次引爆/咒牌/首件法宝等情境提示；二周目跳过序幕直接进地图；第三章门势/轮盘系统引导；门势徽章长按看详情【弃牌模式升级】弃牌时卡牌显示完整卡面；支持按住卡牌上滑松手弃置；咒牌仍不可弃【桌面端】鼠标滚轮可滚动功德碑/图鉴等长列表"
 }
